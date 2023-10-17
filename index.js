@@ -32,5 +32,5 @@ app.get("/", (req,res) => {
 });
 
 app.listen(5000, () =>{
-    console.log("Server is workin");
+    console.log("Server is working");
 }); 
