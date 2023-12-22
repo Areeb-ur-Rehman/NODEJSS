@@ -32,5 +32,5 @@ app.get("/", (req,res) => {
 });
 
 app.listen(5000, () =>{
-    console.log("Server is still working but kchh nhi");
+    console.log("My name is areeb ur rehmanm i am a web developer");
 }); 
